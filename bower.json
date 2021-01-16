@@ -1,0 +1,18 @@
+{
+  "name": "material-kit",
+  "homepage": "https://github.com/creativetimofficial/material-kit",
+  "authors": [
+    "Nayantha Nethsara"
+  ],
+  "description": "A Badass Bootstrap UI Kit based on Material Design",
+  "main": "index.html",
+  "keywords": [
+    "material",
+    "design",
+    "bootstrap",
+    "material",
+    "design",
+    "google",
+    "twitter"
+  ]
+}
